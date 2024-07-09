@@ -1,4 +1,6 @@
-EfficientNet model ('efficientnet-b0') has been used in the assignment. 
+In this project, given the image of a person, the age of the person is predicted using a pretrained model.
+
+EfficientNet model ('efficientnet-b0') has been used in the project. 
 
 It is a pretrained model which follows a compound scaling method, where the depth, width, and resolution of the network are scaled simultaneously. 'efficientnet-b0' is the base model in the EfficientNet family.
 
